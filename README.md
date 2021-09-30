@@ -11,5 +11,5 @@ Used HTML2PDF.js for printing HTML page to pdf form <br> </h3>
 <img src="image/op3.png"><br/>
 <h3>Resume Template Generated</h3>
 <img src="image/op4.png"><br/>
-<h3>Resume pdf downloaded (This is just an example with dummy data</h3>
+<h3>Resume pdf downloaded (This is just an example with dummy data)</h3>
 <img src="image/op5.png"><br/>
