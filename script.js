@@ -35,7 +35,7 @@ function AddNewAQ(){
 
 }
 
-function generateCV(){
+function generateR(){
     // console.log("CV generated!");
 
     let nameField = document.getElementById('nameField').value;
@@ -113,7 +113,7 @@ function addScript(url) {
     document.head.appendChild(script);
 }
 
-function printCV(){
+function printR(){
 
     // window.print();
 
