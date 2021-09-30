@@ -1,5 +1,7 @@
 <h1># ResumeGenerator-JS</h1>
 
+Made live https://akshat-resume-maker.netlify.app/ with Netlify!
+
 Used Bootstrap - https://getbootstrap.com/docs/5.1/getting-started/introduction/ <br>
 Used DOM manipulation of js and form Validation <br>
 Used HTML2PDF.js for printing HTML page to pdf form <br> 
